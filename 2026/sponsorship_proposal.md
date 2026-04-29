@@ -239,11 +239,22 @@ NOSS is organized by Cumbuca Dev, a Brazilian community focused on expanding acc
 
 International sponsors can support the event through:
 
-👉 GitHub Sponsors (Cumbuca Dev)
-https://github.com/sponsors/cumbucadev
+* GitHub Sponsors [Cumbuca Dev](https://github.com/sponsors/cumbucadev)
+* Wise account
+
 
 ---
 
-## 13. Contact
+## 13. Acceptance deadline
+
+Sponsorship confirmations are accepted until **May 20th**.
+
+After confirmation, payment will be arranged directly with each organization, according to their internal processes.
+
+To ensure inclusion in event communications and materials, we recommend confirming as early as possible.
+
+
+
+## 14. Contact
 
 [eventos@cumbuca.dev](mailto:eventos@cumbuca.dev)

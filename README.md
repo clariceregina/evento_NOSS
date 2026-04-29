@@ -2,26 +2,29 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/cumbucadev/design/raw/main/images/logo-dark-transparent.png"
+      srcset="brand/identidade/logos/horizontal_creme_blue.png"
     >
     <img
-      alt="Logo do Cumbuca Dev"
-      src="https://github.com/cumbucadev/design/raw/main/images/logo-light-transparent.png"
-      width="20%"
+      alt="Logo NOSS"
+      src="brand/identidade/logos/horizontal_creme_blue.png"
+      width="1000%"
     >
   </picture>
 
-# 🪢 NOSS — Nosso Open Source Summit
 
 O Brasil já constrói open source. Agora é hora de criar e fortalecer os nós.
 
 
 
-[English Version](/README_EN.md)
+<div>
 
-
+### [NOSS 2026](/2026/README.md) - 30 de maio - Evento Remoto - [Youtube/@CumbucaDev](https://www.youtube.com/watch?v=2GLyGSolizQ)
 
 </div>
+
+[English Version](/README_EN.md)
+
+<div align='left'>
 
 ## 📚 Sumário
 
@@ -60,7 +63,7 @@ A discussão sobre open source ainda é, em grande parte, conduzida a partir de 
 
 Sem sustentabilidade, projetos não se mantêm. Sem manutenção, não há continuidade. E sem continuidade, não existe ecossistema.
 
-Falar de FLOSS no Brasil exige incorporar, de forma explícita, dimensões como renda, financiamento, distribuição de valor e condições reais de permanência. Não como exceção, mas como parte do modelo.
+Falar de [FLOSS](https://flusp.ime.usp.br/floss/) no Brasil exige incorporar, de forma explícita, dimensões como renda, financiamento, distribuição de valor e condições reais de permanência. Não como exceção, mas como parte do modelo.
 
 Esse é um ponto central, especialmente em contextos onde desigualdades estruturais impactam diretamente quem consegue entrar, permanecer e se desenvolver na área.
 

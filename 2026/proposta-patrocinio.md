@@ -163,7 +163,7 @@ As cotas foram estruturadas considerando visibilidade, associação instituciona
 
 **Menção**
 
-* 1 menção ao vivo
+* 1 menção ao vivo - durante o Painel
 
 **Distribuição**
 
@@ -251,6 +251,16 @@ O NOSS é organizado pela Cumbuca Dev, comunidade que atua na democratização d
 
 ---
 
-## 12. Contato
+## 12. Prazo de aceite
+
+Aceitamos confirmações de patrocínio até o dia **20 de maio**.
+
+Após a confirmação, o processo de pagamento será alinhado diretamente com cada organização, de acordo com seus fluxos internos.
+
+Para garantir a inclusão nas comunicações e materiais do evento, recomendamos que a confirmação seja realizada o quanto antes.
+
+---
+
+## 13. Contato
 
 [eventos@cumbuca.dev](mailto:eventos@cumbuca.dev)
