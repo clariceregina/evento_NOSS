@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#flufi things
+node_modules/
+src
+
 # C extensions
 *.so
 
