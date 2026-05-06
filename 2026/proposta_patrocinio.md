@@ -245,13 +245,28 @@ Não há distribuição de lucro individual.
 
 ---
 
-## 11. Organização
+## 11. Espaços de interação e comunidade
+
+Além das transmissões ao vivo, o NOSS está estruturando espaços de interação contínua entre participantes, comunidades e organizações parceiras durante o evento.
+
+Esses espaços serão utilizados para:
+
+* networking entre participantes
+* compartilhamento de projetos e oportunidades
+* interação entre comunidade e organizações
+* ativações alinhadas ao ecossistema
+* sorteios e iniciativas voltadas à comunidade
+
+A proposta é ampliar a experiência para além da transmissão, fortalecendo conexões e continuidade dentro do ecossistema de FLOSS.
+
+
+## 12. Organização
 
 O NOSS é organizado pela Cumbuca Dev, comunidade que atua na democratização do acesso à tecnologia no Brasil e na construção de caminhos de entrada, permanência e desenvolvimento no ecossistema.
 
 ---
 
-## 12. Prazo de aceite
+## 13. Prazo de aceite
 
 Aceitamos confirmações de patrocínio até o dia **20 de maio**.
 
@@ -261,6 +276,6 @@ Para garantir a inclusão nas comunicações e materiais do evento, recomendamos
 
 ---
 
-## 13. Contato
+## 14. Contato
 
 [eventos@cumbuca.dev](mailto:eventos@cumbuca.dev)
