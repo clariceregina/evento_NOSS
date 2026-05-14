@@ -33,7 +33,7 @@ O Brasil já constrói open source. Agora é hora de criar e fortalecer os nós.
 - [O Brasil nesse cenário](#-o-brasil-nesse-cenário)
 - [Soberania e capacidade de construção](#-soberania-e-capacidade-de-construção)
 - [Origem e continuidade](#-origem-e-continuidade)
-- [Por que Maio](#-por-que-maio)
+- [Por que Maio](#por-que-maio)
 - [O que estamos construindo](#-o-que-estamos-construindo)
 - [FLOSS também é sobre viver disso](#-floss-também-é-sobre-viver-disso)
 - [Referências](#-referências)
@@ -115,7 +115,7 @@ Não se trata de iniciar algo isolado, mas de organizar algo que já existe de f
 
 ---
 
-## 🗓️ Por que Maio
+<h2 id="por-que-maio">🗓️ Por que Maio</h2>
 
 Maio tem sido reconhecido internacionalmente como o mês de valorização de pessoas mantenedoras (Maintainer Month).
 
