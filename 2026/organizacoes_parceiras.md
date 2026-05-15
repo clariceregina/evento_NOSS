@@ -69,3 +69,55 @@ A Universidade Livre Brasileira é um projeto inspirado na Open Source Society U
 O NOSS contará com participação confirmada de representante da UBL na programação do evento.
 
 🔗 https://ulivre.dev/
+
+## Python Floripa
+
+<div align="center">
+    <img
+      alt="Logo Python Floripa"
+      src="assets/images/python_floripa.jpeg"
+      width="70%"
+    >
+</div>
+<br>
+
+**Atuação:** Comunidade regional que reúne pessoas interessadas em Python, tecnologia e inovação por meio de encontros mensais de troca de conhecimento e conexões.
+
+**Localização:** Florianópolis, Brasil 
+
+A Python Floripa é uma comunidade regional que reúne entusiastas da linguagem Python em encontros mensais voltados à troca de conhecimento, networking e fortalecimento do ecossistema de tecnologia da Grande Florianópolis. Mais do que uma comunidade sobre uma linguagem, é um espaço de conexão entre pessoas, ideias e iniciativas do mundo tech.
+
+No NOSS, a Python Floripa participará com uma Palestra ao vivo no formato híbrido - enquanto acontece o 96° meetup da comunidade no mesmo dia.
+
+🔗 https://python.floripa.br/
+
+## Tech Floripa
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/images/tech_floripa_black_background.jpeg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/images/tech_floripa_white_background.jpeg"
+    >
+    <img
+      alt="Logo Tech Floripa"
+      src="assets/images/tech_floripa_white_background.jpeg"
+      width="70%"
+    >
+  </picture>
+</div>
+<br>
+
+**Atuação:** Hub regional que apoia, organiza e conecta eventos, comunidades, empresas e oportunidades do ecossistema de tecnologia da Grande Florianópolis.
+
+**Localização:** Florianópolis, Brasil
+
+A Tech Floripa é um hub de eventos de tecnologia de Florianópolis e região, criado para fortalecer comunidades, produtores de eventos e iniciativas ligadas ao ecossistema de inovação. A plataforma apoia a divulgação de eventos, a gestão de inscrições, o controle de participantes e a emissão de certificados, além de conectar organizadores a espaços, apoiadores, patrocinadores, empresas, oportunidades de mercado e outros agentes estratégicos da comunidade tech.
+
+No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização das inscrições, na emissão de certificados e na realização de sorteios.
+
+🔗 https://tech.floripa.br/
