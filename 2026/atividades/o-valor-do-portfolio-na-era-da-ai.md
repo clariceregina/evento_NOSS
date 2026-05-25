@@ -17,6 +17,6 @@ Minha teoria é que é um misto de "quão boa essa idéia é", como o autor gere
 
 A idéia tá bem fresca ainda, porém.
 
-    ## 🎯 Principais aprendizados
+## 🎯 Principais aprendizados
 
-    não sei ainda :D Acredito que algo no sentido de aproveitar a AI pra testar idéias, experimentar coisas, e resolver problemas reais.
+não sei ainda :D Acredito que algo no sentido de aproveitar a AI pra testar idéias, experimentar coisas, e resolver problemas reais.

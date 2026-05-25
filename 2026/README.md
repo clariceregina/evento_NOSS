@@ -15,6 +15,7 @@
 - [O Evento](#-o-evento)
 - [Como Assistir](#-como-assistir)
 - [Quem Você Encontrará por Lá](#-quem-você-encontrará-por-lá)
+- [Programação](#-programação)
 - [Patrocinadores](#-patrocinadores)
 - [Organizações Parceiras](#-organizações-parceiras)
 - [Voluntariado](#-voluntariado)
@@ -38,14 +39,13 @@ Reunimos pessoas que constroem, mantêm e querem entrar no ecossistema de tecnol
 
 ## 📺 Como Assistir
 
-O evento será transmitido ao vivo pelo YouTube, gratuitamente, em dois canais simultâneos:
+O evento será transmitido ao vivo pelo YouTube, gratuitamente, em duas trilhas simultâneas:
 
-**🟣 [Canal principal - FLOSS na prática](https://www.youtube.com/@CumbucaDev)**
+* **🟣 [Trilha principal - FLOSS na prática](https://www.youtube.com/@CumbucaDev)**
 Conteúdo técnico e avançado: keynotes, palestras, painel de encerramento.
 
-**🔵 Canal paralelo - Fundamentos em FLOSS**
-Trilha introdutória para quem está começando no ecossistema open source.
-_Link disponível próximo à data do evento._
+* **🔵 Trilha Iniciante - Fundamentos em FLOSS**
+Trilha introdutória para quem está começando no ecossistema open source. _Link disponível próximo à data do evento._
 
 Não precisa se inscrever - é só entrar e assistir. As gravações ficarão disponíveis após o evento.
 
@@ -142,7 +142,9 @@ Não precisa se inscrever - é só entrar e assistir. As gravações ficarão di
   </tr>
 </table>
 
-👉 Grade detalhada: [grade_completa.md](./grade_completa.md)
+## 📅 Programação
+
+Veja a programação detalhada em [grade_completa.md](./grade_completa.md)
 
 ## 💎 Patrocinadores
 
@@ -218,23 +220,13 @@ O evento é construído com a participação de pessoas voluntárias. Você pode
 
 ## ❓ Perguntas Frequentes
 
-* **O evento é pago?**
-Não. O NOSS 2026 é totalmente gratuito e aberto.
-
-* **Preciso me inscrever para assistir?**
-Não. É só acessar o YouTube da Cumbuca Dev no dia 30/05.
-
-* **As gravações ficarão disponíveis?**
-Sim. As gravações serão publicadas no canal após o evento.
-
-* **Posso submeter uma palestra mesmo sendo iniciante?**
-Sim! A trilha Fundamentos em FLOSS é voltada exatamente para quem está começando e aceita conteúdos introdutórios.
-
-* **O evento tem código de conduta?**
-Sim. Todo participante deve seguir o [Código de Conduta](../CODE_OF_CONDUCT.md).
-
-* **Como posso contribuir com o repositório?**
-Leia o [CONTRIBUTING.md](../CONTRIBUTING.md) para saber como contribuir com a documentação e organização do evento.
+* **O evento é pago?** Não. O NOSS 2026 é totalmente gratuito e aberto.
+* **Preciso me inscrever para assistir?** Não. É só acessar o YouTube da Cumbuca Dev no dia 30/05.
+* **As gravações ficarão disponíveis?** Sim. As gravações serão publicadas no canal após o evento.
+* **Haverá certificado de participação?** Sim. Iremos gerar certificados de participação. Para receber o certificado, será necessário realizar um check-in no dia do evento. Mais detalhes serão explicados durante a transmissão.
+* **Posso submeter uma palestra mesmo sendo iniciante?** Sim! A trilha Fundamentos em FLOSS é voltada exatamente para quem está começando e aceita conteúdos introdutórios.
+* **O evento tem código de conduta?** Sim. Todo participante deve seguir o [Código de Conduta](../CODE_OF_CONDUCT.md).
+* **Como posso contribuir com o repositório?** Leia o [CONTRIBUTING.md](../CONTRIBUTING.md) para saber como contribuir com a documentação e organização do evento.
 
 ## 📌 Contato
 

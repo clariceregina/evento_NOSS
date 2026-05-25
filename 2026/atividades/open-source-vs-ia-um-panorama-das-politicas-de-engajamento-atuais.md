@@ -17,6 +17,6 @@ Vários projetos já se mobilizam para instituir políticas que definem limites 
 
 Nesta palestra, vamos discutir o panorama atual, quais são as questões a serem consideradas e o que podemos esperar do futuro das contribuições em projetos open source.
 
-    ## 🎯 Principais aprendizados
+## 🎯 Principais aprendizados
 
-    O uso de ferramentas de IA, cada vez mais frequente, representa um grande desafio para projetos open source e redefine o que é uma contribuição aceitável.
+O uso de ferramentas de IA, cada vez mais frequente, representa um grande desafio para projetos open source e redefine o que é uma contribuição aceitável.

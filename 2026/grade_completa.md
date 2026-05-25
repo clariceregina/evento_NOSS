@@ -56,8 +56,8 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>11:40 – 12:20</b></td>
-      <td align="center"><i>vago</i></td>
-      <td align="center"><i>vago</i></td>
+      <td align="center"><i>a confirmar</i></td>
+      <td align="center"><i>a confirmar</i></td>
     </tr>
     <tr>
       <td><b>12:30 – 13:30</b></td>
@@ -71,7 +71,7 @@ Trilha introdutória para pessoas em início de jornada:
       </td>
       <td>
         <a href="./pessoas/pachi-parra.md"><b>Pachi Parra</b></a><br>
-        <a href="./atividades/contribuindo-com-open-source-por-onde-comecar">Contribuindo com Open Source: por onde começar?</a>
+        <a href="./atividades/contribuindo-com-open-source-por-onde-comecar.md">Contribuindo com Open Source: por onde começar?</a>
       </td>
     </tr>
     <tr>
@@ -80,36 +80,36 @@ Trilha introdutória para pessoas em início de jornada:
         <a href="./pessoas/hisham-muhammad.md"><b>Hisham Muhammad</b></a><br>
         <a href="./atividades/software-livre-ontem-e-hoje.md">Software livre, ontem e hoje</a>
       </td>
-      <td align="center"><i>vago</i></td>
+      <td align="center"><i>a confirmar</i></td>
     </tr>
     <tr>
       <td><b>15:00 – 16:00</b></td>
       <td colspan="2" align="center">
         <sup><b>KEYNOTE</b></sup><br>
         <a href="./pessoas/paloma-oliveira.md"><b>Paloma Oliveira</b></a><br>
-        <a href="./atividades/a-infraestrutura-digital-e-global.md">A infraestrutura digital é global, e o Brasil faz parte dela</a>
+        <a href="./atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela.md">A infraestrutura digital é global, e o Brasil faz parte dela</a>
       </td>
     </tr>
     <tr>
       <td><b>16:00 – 16:40</b></td>
       <td>
         <a href="./pessoas/melissawm.md"><b>MelissaWM</b></a><br>
-        <a href="./atividades/open-source-vs-ia.md">Open source vs. IA: Um panorama das políticas de engajamento atuais</a>
+        <a href="./atividades/open-source-vs-ia-um-panorama-das-politicas-de-engajamento-atuais.md">Open source vs. IA: Um panorama das políticas de engajamento atuais</a>
       </td>
       <td>
         <a href="./pessoas/mateus-roveda.md"><b>Mateus Roveda</b></a><br>
-        <a href="./atividades/conhecimento-livre-ubl.md">Conhecimento livre: como a Universidade Brasileira Livre surgiu e como posso contribuir</a>
+        <a href="./atividades/conhecimento-livre-como-a-universidade-brasileira-livre-surgiu-e-como-posso-contribuir.md">Conhecimento livre: como a Universidade Brasileira Livre surgiu e como posso contribuir</a>
       </td>
     </tr>
     <tr>
       <td><b>16:40 – 17:20</b></td>
       <td>
         <a href="./pessoas/nick-vidal.md"><b>Nick Vidal</b></a><br>
-        <a href="./atividades/maintainers-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
+        <a href="./atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
       </td>
       <td>
         <a href="./pessoas/maite.md"><b>Maitê</b></a><br>
-        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
+        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
       </td>
     </tr>
     <tr>

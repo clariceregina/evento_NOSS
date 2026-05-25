@@ -17,6 +17,9 @@ Inspirada nas histórias do projeto maintaine.rs, esta palestra apresenta o lado
 
 A conversa aborda desafios como sustentabilidade, burnout, colaboração e comunidade, além de refletir sobre como empresas e desenvolvedores podem apoiar melhor quem mantém o ecossistema funcionando.
 
-    ## 🎯 Principais aprendizados
+## 🎯 Principais aprendizados
 
-    1) O impacto dos mantenedores no ecossistema tecnológico, 2) Os desafios invisíveis da manutenção, 3) Sustentabilidade e colaboração em comunidades, 4) Como apoiar projetos e mantenedores
+1. O impacto dos mantenedores no ecossistema tecnológico,
+1. Os desafios invisíveis da manutenção,
+1. Sustentabilidade e colaboração em comunidades,
+1. Como apoiar projetos e mantenedores

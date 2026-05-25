@@ -2,7 +2,8 @@
 
 ## 📌 Informações Gerais
 
-- **Pessoa palestrante:** [Yaso](../pessoas/yaso.md)
+- **Pessoa Facilitadora:** [Mário Sergio](../pessoas/mario-sergio.md)
+- **Pessoas Participantes:** [Carla Rocha](../pessoas/carla-rocha.md), [Cuducos](../pessoas/cuducos.md) e [Yaso](../pessoas/yaso.md)
 - **Tipo de atividade:** Painel / Panel discussion
 - **Categoria:** FLOSS
 - **Nível:** Intermediário/Intermediate
@@ -15,6 +16,6 @@ Descrição da atividade: Será uma roda de conversa com pessoas de
 diferentes projetos e iniciativas a fim de debater a construção de
 tecnologias abertas direcionadas à políticas públicas e inovação cívica.
 
-    ## 🎯 Principais aprendizados
+## 🎯 Principais aprendizados
 
-    Tecnologias abertas para políticas públicas
+Tecnologias abertas para políticas públicas

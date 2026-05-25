@@ -21,6 +21,6 @@ Nesta palestra, vou contar de onde veio esse trabalho, o que nos orienta e por q
 
 *https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148
 
-    ## 🎯 Principais aprendizados
+## 🎯 Principais aprendizados
 
-    As pessoas vão entender o que é a Sovereign Tech Agency, como ela define infraestrutura digital aberta como bem público, quais programas existem e como candidatar um projeto ou individualmente.
+As pessoas vão entender o que é a Sovereign Tech Agency, como ela define infraestrutura digital aberta como bem público, quais programas existem e como candidatar um projeto ou individualmente.
