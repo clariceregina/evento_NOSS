@@ -1,182 +1,245 @@
-# NOSS — Nosso Open Source Summit 2026
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../brand/identidade/logos/horizontal_creme_blue.png">
+  <source media="(prefers-color-scheme: light)" srcset="../brand/identidade/logos/horizontal_black.png">
+  <img alt="Logo NOSS" src="../brand/identidade/logos/horizontal_black.png">
+</picture>
 
-[English Version](README_EN.md)
+# NOSS 2026 - Nosso Open Source Summit
 
 > O Brasil já constrói open source. Agora é hora de estruturar os nós.
 
----
+[🇺🇸 English Version](./README_EN.md)
 
-## 🌱 Sobre o NOSS 2026
+## 📌 Sumário
 
-O NOSS 2026 é a primeira edição do Nosso Open Source Summit, um encontro aberto sobre **FLOSS (Free/Libre and Open Source Software)** no Brasil.
+- [O Evento](#-o-evento)
+- [Como Assistir](#-como-assistir)
+- [Quem Você Encontrará por Lá](#-quem-você-encontrará-por-lá)
+- [Patrocinadores](#-patrocinadores)
+- [Organizações Parceiras](#-organizações-parceiras)
+- [Voluntariado](#-voluntariado)
+- [Perguntas Frequentes](#-perguntas-frequentes)
+- [Contato](#-contato)
 
-O evento reúne pessoas que constroem, utilizam ou querem iniciar sua jornada em open source, com foco em troca técnica, visibilidade de projetos e fortalecimento do ecossistema.
+## 🎉 O Evento
 
-👉 Para entender o contexto completo, motivações e visão do projeto:
-[README principal](../README.md)
+**NOSS 2026** é a primeira edição do Nosso Open Source Summit - um encontro aberto sobre **FLOSS (Free/Libre and Open Source Software)** no Brasil.
 
-📅 30 de maio <br>
-⏰ 09:30 – 18:30 (BRT) <br>
-📍 Online — [YouTube da Cumbuca Dev](https://www.youtube.com/@CumbucaDev)
+Reunimos pessoas que constroem, mantêm e querem entrar no ecossistema de tecnologias abertas para compartilhar experiências, fortalecer projetos e criar comunidade.
 
-Evento gratuito, aberto e construído de forma colaborativa.
+| | |
+|---|---|
+| 📅 **Data** | 30 de maio de 2026 |
+| ⏰ **Horário** | 09:30 – 18:30 (BRT) |
+| 📍 **Formato** | Online e gratuito |
+| 📺 **Onde assistir** | [YouTube/@CumbucaDev](https://www.youtube.com/@CumbucaDev) |
 
----
+👉 Para entender o contexto completo, motivações e visão do projeto: [README principal](../README.md)
 
-## 📣 Como participar
+## 📺 Como Assistir
 
-Você pode participar do NOSS 2026 de diferentes formas:
+O evento será transmitido ao vivo pelo YouTube, gratuitamente, em dois canais simultâneos:
 
-* assistindo ao evento
-* submetendo uma palestra
-* apoiando como organização
-* contribuindo como pessoa voluntária
+**🟣 [Canal principal - FLOSS na prática](https://www.youtube.com/@CumbucaDev)**
+Conteúdo técnico e avançado: keynotes, palestras, painel de encerramento.
 
----
+**🔵 Canal paralelo - Fundamentos em FLOSS**
+Trilha introdutória para quem está começando no ecossistema open source.
+_Link disponível próximo à data do evento._
 
-## 🧬 Estrutura do evento
+Não precisa se inscrever - é só entrar e assistir. As gravações ficarão disponíveis após o evento.
 
-A programação será organizada em dois fluxos simultâneos.
+## 🌟 Quem Você Encontrará por Lá
 
-### Link principal (YouTube)
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="./pessoas/anna-e-so.md">
+        <img src="./assets/images/participantes/anna-e-so.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Anna e Só</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/carla-rocha.md">
+        <img src="https://ui-avatars.com/api/?name=Carla+Rocha&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
+        <sub><b>Carla Rocha</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/carlos-becker.md">
+        <img src="./assets/images/participantes/carlos-becker.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Carlos Becker</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/cuducos.md">
+        <img src="https://ui-avatars.com/api/?name=Cuducos&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
+        <sub><b>Cuducos</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/hisham-muhammad.md">
+        <img src="./assets/images/participantes/hisham-muhammad.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Hisham Muhammad</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/maite.md">
+        <img src="./assets/images/participantes/maite.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Maitê</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/mario-sergio.md">
+        <img src="./assets/images/participantes/mario-sergio.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Mário Sérgio</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="./pessoas/mateus-roveda.md">
+        <img src="./assets/images/participantes/mateus-roveda.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Mateus Roveda</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/melissawm.md">
+        <img src="./assets/images/participantes/melissawm.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>MelissaWM</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/mr-enderson.md">
+        <img src="./assets/images/participantes/mr-enderson.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Mr Enderson</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/nick-vidal.md">
+        <img src="./assets/images/participantes/nick-vidal.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Nick Vidal</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/pachi-parra.md">
+        <img src="./assets/images/participantes/pachi-parra.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Pachi Parra</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/paloma-oliveira.md">
+        <img src="./assets/images/participantes/paloma-oliveira.jpeg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Paloma Oliveira</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/yaso.md">
+        <img src="./assets/images/participantes/yaso.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Yaso</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-Transmissão central do evento, com conteúdos de maior abrangência:
+👉 Grade detalhada: [grade_completa.md](./grade_completa.md)
 
-* keynotes
-* palestras técnicas - trilha FLOSS na prática
-* painel de encerramento
+## 💎 Patrocinadores
 
----
+O NOSS 2026 é viabilizado pelo apoio de organizações que acreditam no ecossistema open source brasileiro.
 
-### Link paralelo — Fundamentos em FLOSS
+<!-- PLACEHOLDER: adicionar patrocinadores à medida que forem confirmados -->
+<!-- Formato sugerido por nível:
 
-Conteúdo voltado para quem está começando.
+### 🥇 Ouro
+<a href="URL"><img src="URL_LOGO" height="60" alt="Nome"></a>
 
-Essa trilha acontecerá em um link separado, permitindo que:
+### 🥈 Prata
+<a href="URL"><img src="URL_LOGO" height="48" alt="Nome"></a>
 
-* pessoas iniciantes acompanhem um fluxo contínuo e acessível
-* conteúdos introdutórios não concorram diretamente com palestras mais avançadas
-* diferentes níveis de experiência sejam contemplados ao mesmo tempo
+### 🥉 Bronze
+<a href="URL"><img src="URL_LOGO" height="36" alt="Nome"></a>
 
-Os links de transmissão serão disponibilizados próximos à data do evento.
+### Apoio Institucional
+<a href="URL"><img src="URL_LOGO" height="36" alt="Nome"></a>
+-->
 
----
+*Patrocinadores serão anunciados em breve.*
 
-## 🧩 Trilhas
+👉 Organizações interessadas em apoiar o evento podem acessar a proposta de patrocínio: [proposta-patrocinio.md](./proposta-patrocinio.md)
 
-### 🟣 FLOSS na prática
+## 🤜🤛 Organizações Parceiras
 
-Conteúdo técnico e aplicado, voltado para quem já atua ou tem familiaridade com o ecossistema.
+O NOSS é construído em colaboração com comunidades, organizações e iniciativas que fortalecem o ecossistema de FLOSS no Brasil e no mundo.
 
-* projetos reais
-* manutenção de projetos (maintainers)
-* governança
-* infraestrutura e escala
-* sustentabilidade
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://opensource.org/">
+        <img src="https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&quality=80&ssl=1" height="48" alt="Open Source Initiative"><br>
+        <sub><b>Open Source Initiative</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://ulivre.dev/">
+        <img src="https://github.com/Universidade-Livre/imagens/raw/main/logos/PNG/Logo-sem-fundo-padr%C3%A3o/LOGO-UBL-SEM-FUNDO-09.png" height="48" alt="Universidade Brasileira Livre"><br>
+        <sub><b>Universidade Brasileira Livre</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://python.floripa.br/">
+        <img src="https://github.com/cumbucadev/NOSS/raw/main/2026/assets/images/python_floripa.jpeg" height="48" alt="Python Floripa"><br>
+        <sub><b>Python Floripa</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://tech.floripa.br/">
+        <img src="https://github.com/cumbucadev/NOSS/raw/main/2026/assets/images/tech_floripa_white_background.jpeg" height="48" alt="Tech Floripa"><br>
+        <sub><b>Tech Floripa</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+Detalhes sobre cada organização: [organizacoes_parceiras.md](./organizacoes_parceiras.md)
 
-### 🔵 Fundamentos em FLOSS
-
-Trilha introdutória para pessoas em início de jornada.
-
-* introdução ao open source
-* Git e GitHub
-* primeiros passos em contribuição
-* caminhos possíveis na área
-
----
-
-## 🎤 Formatos de conteúdo
-
-* **Keynotes** → 45 min + 15 min perguntas
-* **Palestras** → 30 min + 5 min perguntas
-* **Tutoriais** → 30 min + 10 min perguntas
-* **Painel** → 40 min + 10 min perguntas
-
----
-
-## 📝 Submissão de palestras
-
-A submissão de propostas será realizada por meio de Google Forms.
-
-A escolha considera acessibilidade e simplicidade, permitindo que pessoas em diferentes momentos da carreira participem sem depender de ferramentas mais complexas de [CFP (Call For Papers)](https://dev.to/feministech/voce-sabe-o-que-e-call-for-papers-1lo5).
-
-👉 Link de submissão: (a definir)
-
----
-
-## 📊 Público estimado
-
-A estimativa de público considera:
-
-* alcance da Cumbuca Dev e comunidades parceiras
-* eventos anteriores da comunidade
-* crescimento do ecossistema de FLOSS no Brasil
-
-Expectativa:
-
-* 1.000 a 3.000 pessoas ao vivo
-* alcance ampliado via gravações
-* participações nacionais e internacionais
-
----
-
-## 💰 Como apoiar o evento
-
-O NOSS é um evento gratuito e aberto, viabilizado por meio de apoio institucional e patrocínios.
-
-Organizações interessadas podem contribuir com:
-
-* apoio institucional
-* presença de marca
-* keynotes patrocinados
-* apresentações técnicas (projetos open source ou casos reais)
-
-👉 Acesse o plano completo de patrocínio:
-[proposta-patrocinio.md](https://github.com/cumbucadev/NOSS/blob/main/2026/proposta-patrocinio.md)
-
-Os recursos são destinados à realização do evento e à continuidade da iniciativa.
-
-> Conteúdos patrocinados devem priorizar abordagem técnica, evitando caráter comercial direto.
-
----
+> Quer que sua comunidade ou organização faça parte? 📧 <eventos@cumbuca.dev> - Assunto: `Parceria NOSS 2026`
 
 ## 🤝 Voluntariado
 
-O evento é construído com a participação de pessoas voluntárias.
+O evento é construído com a participação de pessoas voluntárias. Você pode contribuir em diferentes frentes:
 
-Áreas de atuação:
+- **Organização** - suporte à equipe central
+- **Comunicação** - divulgação e redes sociais
+- **Moderação de chat** - durante as transmissões ao vivo
+- **Apoio técnico** - infraestrutura de streaming
 
-* organização
-* comunicação
-* moderação de chat
-* apoio técnico
+📧 <eventos@cumbuca.dev> - Assunto: `Voluntariado NOSS`
 
+## ❓ Perguntas Frequentes
 
-📧 [eventos@cumbuca.dev](mailto:eventos@cumbuca.dev) <br>
-Assunto: Voluntariado NOSS
+* **O evento é pago?**
+Não. O NOSS 2026 é totalmente gratuito e aberto.
 
----
+* **Preciso me inscrever para assistir?**
+Não. É só acessar o YouTube da Cumbuca Dev no dia 30/05.
 
-## 🗓️ Programação
+* **As gravações ficarão disponíveis?**
+Sim. As gravações serão publicadas no canal após o evento.
 
-A grade completa do evento está disponível em:
+* **Posso submeter uma palestra mesmo sendo iniciante?**
+Sim! A trilha Fundamentos em FLOSS é voltada exatamente para quem está começando e aceita conteúdos introdutórios.
 
-👉 [grade_completa.md](grade_completa.md)
+* **O evento tem código de conduta?**
+Sim. Todo participante deve seguir o [Código de Conduta](../CODE_OF_CONDUCT.md).
 
----
+* **Como posso contribuir com o repositório?**
+Leia o [CONTRIBUTING.md](../CONTRIBUTING.md) para saber como contribuir com a documentação e organização do evento.
 
-## 🌱 Este repositório
+## 📌 Contato
 
-Este repositório reúne os materiais e a documentação da edição 2026, incluindo:
-
-* estrutura do evento
-* conteúdos organizacionais
-* recursos de apoio
-
-Também funciona como base para futuras edições do NOSS.
-
----
+* 📧 <eventos@cumbuca.dev>
+* 💬 [Discussões no GitHub](https://github.com/cumbucadev/NOSS/discussions)
+* 🌐 [cumbuca.dev](https://cumbuca.dev)
 
 Criado e organizado com 💜 pela [Cumbuca Dev](https://cumbuca.dev)

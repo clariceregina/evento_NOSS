@@ -1,282 +1,128 @@
-# NOSS — Nosso Open Source Summit
-
-## 📅 30 de maio | Formato online (YouTube)
-
-Estrutura:
-
-* Canal principal: FLOSS na Prática + Keynotes + Painel
-* Link paralelo: Fundamentos em FLOSS
-* Fluxo contínuo (sem intervalos)
-* Inserções estratégicas de patrocinadores
-
----
-
-## 🕤 09:30 – 10:00 | Abertura (principal)
-
-09:30 – 09:33
-
-* Entrada ao vivo
-
-09:33 – 09:40
-
-* Código de Conduta
-
-09:40 – 09:50
-
-* Apresentação do NOSS
-* Propósito (open source + software livre)
-
-09:50 – 09:55
-
-* Explicação da dinâmica
-
-09:55 – 10:00
-
-* Agradecimento patrocinadores
-* Logos na tela + links na descrição
-
----
-
-## 🕙 10:00 – 11:00 | Keynote 1 (principal)
-
-💡 Patrocínio: keynote de abertura
-
-10:00 – 10:45 → fala
-10:45 – 11:00 → perguntas
-
----
-
-## 🕚 11:00 – 12:30 | Bloco 1
-
-### 🟣 FLOSS na Prática (principal)
-
-11:00 – 11:05
-
-* Apresentação
-
-11:05 – 11:35
-
-* Palestra técnica 1 (30 min)
-
-11:35 – 11:40
-
-* Perguntas (5 min)
-
-11:40 – 11:45
-
-* Apresentação
-
-11:45 – 12:15
-
-* Palestra técnica 2 (30 min)
-
-12:15 – 12:20
-
-* Perguntas (5 min)
-
-12:20 – 12:30
-
-* Transição + menção patrocinador (curta)
-
----
-
-### 🔵 Fundamentos em FLOSS (link separado)
-
-11:00 – 11:05
-
-* Abertura da trilha
-
-11:05 – 11:30
-
-* Palestra: Introdução ao Open Source (25 min)
-
-11:30 – 11:35
-
-* Perguntas (5 min)
-
-11:35 – 11:40
-
-* Transição
-
-11:40 – 12:10
-
-* Tutorial: Como começar no GitHub (30 min)
-
-12:10 – 12:20
-
-* Perguntas (10 min)
-
-12:20 – 12:30
-
-* Encerramento + retorno ao principal
-
----
-
-## 🕧 12:30 – 13:30 | Keynote 2 (principal)
-
-💡 Patrocínio: keynote premium
-
-12:30 – 13:15 → fala
-13:15 – 13:30 → perguntas
-
----
-
-## 🕐 13:30 – 15:00 | Bloco 2
-
-### 🟣 FLOSS na Prática (principal)
-
-13:30 – 13:35
-
-* Apresentação
-
-13:35 – 14:05
-
-* Talk: Caso real / arquitetura (30 min)
-
-14:05 – 14:10
-
-* Perguntas (5 min)
-
-14:10 – 14:15
-
-* Apresentação
-
-14:15 – 14:45
-
-* Talk: Governança / maintainers (30 min)
-
-14:45 – 14:50
-
-* Perguntas (5 min)
-
-14:50 – 15:00
-
-* Slot patrocinador (conteúdo técnico)
-* Palestra de empresa com projeto open source (10 min pitch + 10 min conteúdo)
-
----
-
-### 🔵 Fundamentos em FLOSS (link separado)
-
-13:30 – 13:35
-
-* Abertura
-
-13:35 – 14:05
-
-* Tutorial: Primeira contribuição (30 min)
-
-14:05 – 14:15
-
-* Perguntas (10 min)
-
-14:15 – 14:20
-
-* Transição
-
-14:20 – 14:50
-
-* Sessão: Como encontrar projetos (30 min)
-
-14:50 – 15:00
-
-* Perguntas (10 min)
-
----
-
-## 🕒 15:00 – 16:00 | Keynote 3 (principal)
-
-💡 Patrocínio: keynote ou parceiro estratégico
-
-15:00 – 15:45 → fala
-15:45 – 16:00 → perguntas
-
----
-
-## 🕓 16:00 – 17:30 | Bloco 3
-
-### 🟣 FLOSS na Prática (principal)
-
-16:00 – 16:05
-
-* Apresentação
-
-16:05 – 16:35
-
-* Talk: Infra / escala (30 min)
-
-16:35 – 16:40
-
-* Perguntas (5 min)
-
-16:40 – 16:45
-
-* Apresentação
-
-16:45 – 17:15
-
-* Talk: Comunidades globais (30 min)
-
-17:15 – 17:20
-
-* Perguntas (5 min)
-
-17:20 – 17:30
-
-* Transição + agradecimento patrocinadores
-
----
-
-### 🔵 Fundamentos em FLOSS (link separado)
-
-16:00 – 16:05
-
-* Abertura
-
-16:05 – 16:35
-
-* Sessão: Caminhos em open source (30 min)
-
-16:35 – 16:45
-
-* Perguntas (10 min)
-
-16:45 – 16:50
-
-* Transição
-
-16:50 – 17:20
-
-* Sessão: Como evoluir na área (30 min)
-
-17:20 – 17:30
-
-* Perguntas (10 min)
-
----
-
-## 🕔 17:30 – 18:30 | Painel + Encerramento (principal)
-
-💡 Patrocínio: painel com apoio
-
-17:30 – 18:10
-
-* Painel: futuro do FLOSS no Brasil
-
-18:10 – 18:20
-
-* Perguntas do chat
-
-18:20 – 18:30
-
-* Encerramento + agradecimento patrocinadores
-
----
-
-## 📌 Padrões do evento
-
-* Palestras técnicas: 30 min + 5 min perguntas
-* Tutoriais: 30 min + 10 min perguntas
-* Keynotes: 45 min + 15 min perguntas
-* Slot patrocinador: conteúdo técnico (não comercial puro)
-* Transições: 5 min padrão
+# Programação
+
+## Trilhas
+
+### 🟣 Principal FLOSS na Prática
+
+Conteúdo técnico e aplicado para quem já atua ou tem familiaridade com o ecossistema:
+
+- projetos reais e cases
+- manutenção de projetos (maintainers)
+- governança open source
+- infraestrutura e escala
+- sustentabilidade em FLOSS
+
+### 🔵 Iniciante: Fundamentos em FLOSS
+
+Trilha introdutória para pessoas em início de jornada:
+
+- o que é open source e FLOSS
+- Git e GitHub na prática
+- primeiros passos em contribuição
+- caminhos possíveis na carreira
+
+## Horários
+
+<table>
+  <thead>
+    <tr>
+      <th width="110">Horário</th>
+      <th>🟣 Trilha Principal - FLOSS na prática</th>
+      <th>🔵 Trilha Iniciante - Fundamentos em FLOSS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>09:30 – 10:00</b></td>
+      <td colspan="2" align="center"><b>✨ Abertura</b></td>
+    </tr>
+    <tr>
+      <td><b>10:00 – 11:00</b></td>
+      <td colspan="2" align="center">
+        <sup><b>KEYNOTE</b></sup><br>
+        <i>a confirmar</i>
+      </td>
+    </tr>
+    <tr>
+      <td><b>11:00 – 11:40</b></td>
+      <td>
+        <a href="./pessoas/anna-e-so.md"><b>Anna e Só</b></a><br>
+        <a href="./atividades/para-onde-vai-o-software-livre.md">Para onde vai o software livre?</a>
+      </td>
+      <td>
+        <a href="./pessoas/mr-enderson.md"><b>Mr Enderson</b></a><br>
+        <a href="./atividades/github-opensource-e-comunidades.md">GitHub, OpenSource e Comunidades</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>11:40 – 12:20</b></td>
+      <td align="center"><i>vago</i></td>
+      <td align="center"><i>vago</i></td>
+    </tr>
+    <tr>
+      <td><b>12:30 – 13:30</b></td>
+      <td colspan="2" align="center"><b>🚀 Apresente seu Projeto!</b></td>
+    </tr>
+    <tr>
+      <td><b>13:30 – 14:10</b></td>
+      <td>
+        <a href="./pessoas/carlos-becker.md"><b>Carlos Becker</b></a><br>
+        <a href="./atividades/o-valor-do-portfolio-na-era-da-ai.md">O valor do portfólio na era da AI</a>
+      </td>
+      <td>
+        <a href="./pessoas/pachi-parra.md"><b>Pachi Parra</b></a><br>
+        <a href="./atividades/contribuindo-com-open-source-por-onde-comecar">Contribuindo com Open Source: por onde começar?</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>14:10 – 15:00</b></td>
+      <td>
+        <a href="./pessoas/hisham-muhammad.md"><b>Hisham Muhammad</b></a><br>
+        <a href="./atividades/software-livre-ontem-e-hoje.md">Software livre, ontem e hoje</a>
+      </td>
+      <td align="center"><i>vago</i></td>
+    </tr>
+    <tr>
+      <td><b>15:00 – 16:00</b></td>
+      <td colspan="2" align="center">
+        <sup><b>KEYNOTE</b></sup><br>
+        <a href="./pessoas/paloma-oliveira.md"><b>Paloma Oliveira</b></a><br>
+        <a href="./atividades/a-infraestrutura-digital-e-global.md">A infraestrutura digital é global, e o Brasil faz parte dela</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>16:00 – 16:40</b></td>
+      <td>
+        <a href="./pessoas/melissawm.md"><b>MelissaWM</b></a><br>
+        <a href="./atividades/open-source-vs-ia.md">Open source vs. IA: Um panorama das políticas de engajamento atuais</a>
+      </td>
+      <td>
+        <a href="./pessoas/mateus-roveda.md"><b>Mateus Roveda</b></a><br>
+        <a href="./atividades/conhecimento-livre-ubl.md">Conhecimento livre: como a Universidade Brasileira Livre surgiu e como posso contribuir</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>16:40 – 17:20</b></td>
+      <td>
+        <a href="./pessoas/nick-vidal.md"><b>Nick Vidal</b></a><br>
+        <a href="./atividades/maintainers-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
+      </td>
+      <td>
+        <a href="./pessoas/maite.md"><b>Maitê</b></a><br>
+        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>17:30 – 18:20</b></td>
+      <td colspan="2" align="center">
+        <sup><b>PAINEL</b></sup><br>
+        <a href="./atividades/tecnologias-abertas-para-politicas-publicas.md"><b>Tecnologias abertas para políticas públicas</b></a><br>
+        <a href="./pessoas/mario-sergio.md">Mário Sérgio</a> · <a href="./pessoas/carla-rocha.md">Carla Rocha</a> · <a href="./pessoas/cuducos.md">Cuducos</a> · <a href="./pessoas/yaso.md">Yaso</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>18:20 – 18:30</b></td>
+      <td colspan="2" align="center"><b>🎉 Encerramento</b></td>
+    </tr>
+  </tbody>
+</table>
