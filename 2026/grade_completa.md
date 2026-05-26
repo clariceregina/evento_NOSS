@@ -24,14 +24,14 @@ Trilha introdutória para pessoas em início de jornada:
 ## Horários
 
 <table>
-  <thead>
+  <thead align="center">
     <tr>
-      <th width="110">Horário</th>
+      <th>Horário</th>
       <th>🟣 Trilha Principal - FLOSS na prática</th>
       <th>🔵 Trilha Iniciante - Fundamentos em FLOSS</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <td><b>09:30 – 10:00</b></td>
       <td colspan="2" align="center"><b>✨ Abertura</b></td>
@@ -64,7 +64,7 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>12:30 – 13:30</b></td>
-      <td colspan="2" align="center"><b>🚀 Apresente seu Projeto!</b></td>
+      <td colspan="2"><b>🚀 Apresente seu Projeto!</b></td>
     </tr>
     <tr>
       <td><b>13:30 – 14:10</b></td>
@@ -90,7 +90,7 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>15:00 – 16:00</b></td>
-      <td colspan="2" align="center">
+      <td colspan="2">
         <sup><b>KEYNOTE</b></sup><br>
         <a href="./pessoas/paloma-oliveira.md"><b>Paloma Oliveira</b></a><br>
         <a href="./atividades/a-infraestrutura-digital-e-global-e-o-brasil-faz-parte-dela.md">A infraestrutura digital é global, e o Brasil faz parte dela</a>
@@ -117,7 +117,7 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>17:30 – 18:20</b></td>
-      <td colspan="2" align="center">
+      <td colspan="2">
         <sup><b>PAINEL</b></sup><br>
         <a href="./atividades/tecnologias-abertas-para-politicas-publicas.md"><b>Tecnologias abertas para políticas públicas</b></a><br>
         <a href="./pessoas/mario-sergio.md">Mário Sérgio</a> · <a href="./pessoas/carla-rocha.md">Carla Rocha</a> · <a href="./pessoas/cuducos.md">Cuducos</a> · <a href="./pessoas/yaso.md">Yaso</a>
@@ -125,7 +125,7 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>18:20 – 18:30</b></td>
-      <td colspan="2" align="center"><b>🎉 Encerramento</b></td>
+      <td colspan="2"><b>🎉 Encerramento</b></td>
     </tr>
   </tbody>
 </table>
