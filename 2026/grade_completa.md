@@ -46,8 +46,8 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td><b>11:00 – 11:40</b></td>
       <td>
-        <a href="./pessoas/anna-e-so.md"><b>Anna e Só</b></a><br>
-        <a href="./atividades/para-onde-vai-o-software-livre.md">Para onde vai o software livre?</a>
+        <a href="./pessoas/nick-vidal.md"><b>Nick Vidal</b></a><br>
+        <a href="./atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
       </td>
       <td>
         <a href="./pessoas/mr-enderson.md"><b>Mr Enderson</b></a><br>
@@ -56,7 +56,10 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>11:40 – 12:20</b></td>
-      <td align="center"><i>a confirmar</i></td>
+      <td>
+        <a href="./pessoas/carlos-becker.md"><b>Carlos Becker</b></a><br>
+        <a href="./atividades/o-valor-do-portfolio-na-era-da-ai.md">O valor do portfólio na era da AI</a>
+      </td>
       <td align="center"><i>a confirmar</i></td>
     </tr>
     <tr>
@@ -66,8 +69,8 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td><b>13:30 – 14:10</b></td>
       <td>
-        <a href="./pessoas/carlos-becker.md"><b>Carlos Becker</b></a><br>
-        <a href="./atividades/o-valor-do-portfolio-na-era-da-ai.md">O valor do portfólio na era da AI</a>
+        <a href="./pessoas/maite.md"><b>Maitê</b></a><br>
+        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
       </td>
       <td>
         <a href="./pessoas/pachi-parra.md"><b>Pachi Parra</b></a><br>
@@ -80,7 +83,10 @@ Trilha introdutória para pessoas em início de jornada:
         <a href="./pessoas/hisham-muhammad.md"><b>Hisham Muhammad</b></a><br>
         <a href="./atividades/software-livre-ontem-e-hoje.md">Software livre, ontem e hoje</a>
       </td>
-      <td align="center"><i>a confirmar</i></td>
+      <td>
+        <a href="./pessoas/felipython.md"><b>FeliPython</b></a><br>
+        <a href="./atividades/como-contribuir-open-source-mudou-a-minha-vida.md">Como contribuir open source mudou a minha vida</a>
+      </td>
     </tr>
     <tr>
       <td><b>15:00 – 16:00</b></td>
@@ -104,13 +110,10 @@ Trilha introdutória para pessoas em início de jornada:
     <tr>
       <td><b>16:40 – 17:20</b></td>
       <td>
-        <a href="./pessoas/nick-vidal.md"><b>Nick Vidal</b></a><br>
-        <a href="./atividades/maintaine-rs-os-herois-invisiveis-do-open-source.md">Maintaine.rs: Os heróis invisíveis do Open Source</a>
+        <a href="./pessoas/anna-e-so.md"><b>Anna e Só</b></a><br>
+        <a href="./atividades/para-onde-vai-o-software-livre.md">Para onde vai o software livre?</a>
       </td>
-      <td>
-        <a href="./pessoas/maite.md"><b>Maitê</b></a><br>
-        <a href="./atividades/desenvolvendo-sistemas-em-lingua-portuguesa-venha-conhecer.md">Desenvolvendo Sistemas em Língua Portuguesa - Venha conhecer!</a>
-      </td>
+      <td align="center"><i>a confirmar</i></td>
     </tr>
     <tr>
       <td><b>17:30 – 18:20</b></td>

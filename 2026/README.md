@@ -41,13 +41,20 @@ Reunimos pessoas que constroem, mantêm e querem entrar no ecossistema de tecnol
 
 O evento será transmitido ao vivo pelo YouTube, gratuitamente, em duas trilhas simultâneas:
 
-* **🟣 [Trilha principal - FLOSS na prática](https://www.youtube.com/@CumbucaDev)**
+* **🟣 [Trilha principal - FLOSS na prática](https://www.youtube.com/watch?v=2GLyGSolizQ)**
 Conteúdo técnico e avançado: keynotes, palestras, painel de encerramento.
 
 * **🔵 Trilha Iniciante - Fundamentos em FLOSS**
 Trilha introdutória para quem está começando no ecossistema open source. _Link disponível próximo à data do evento._
 
-Não precisa se inscrever - é só entrar e assistir. As gravações ficarão disponíveis após o evento.
+Não precisa se inscrever - é só entrar e assistir.
+
+> **E se o projeto fizer sentido para você, deixa um like na**
+> **[live](https://www.youtube.com/watch?v=2GLyGSolizQ)!**
+> **Isso ajuda muito o YouTube a recomendar o evento para mais pessoas e fortalece a divulgação de**
+> **iniciativas open source brasileiras 💜**
+
+As gravações ficarão disponíveis após o evento.
 
 ## 🌟 Quem Você Encontrará por Lá
 
@@ -75,6 +82,12 @@ Não precisa se inscrever - é só entrar e assistir. As gravações ficarão di
       <a href="./pessoas/cuducos.md">
         <img src="https://ui-avatars.com/api/?name=Cuducos&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
         <sub><b>Cuducos</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/felipython.md">
+        <img src="./assets/images/participantes/felipython.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>FeliPython</b></sub>
       </a>
     </td>
     <td align="center" width="100">
