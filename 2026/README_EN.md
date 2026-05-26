@@ -6,7 +6,7 @@
 
 # NOSS 2026 - Nosso Open Source Summit
 
-> Brazil already builds open source. Now it is time to structure the nodes.
+> Brazil is already building open source. Now it's time to structure the nodes.
 
 [🇧🇷 Versão em Português](./README.md)
 
@@ -14,7 +14,8 @@
 
 - [The Event](#-the-event)
 - [How to Watch](#-how-to-watch)
-- [Who You Will Find There](#-who-you-will-find-there)
+- [Who You'll Meet There](#-who-youll-meet-there)
+- [Schedule](#-schedule)
 - [Sponsors](#-sponsors)
 - [Partner Organizations](#-partner-organizations)
 - [Volunteering](#-volunteering)
@@ -25,7 +26,7 @@
 
 **NOSS 2026** is the first edition of Nosso Open Source Summit - an open gathering about **FLOSS (Free/Libre and Open Source Software)** in Brazil.
 
-We bring together people who build, maintain, and want to enter the open technologies ecosystem to share experiences, strengthen projects, and grow community.
+We bring together people who build, maintain, and want to join the open technologies ecosystem to share experiences, strengthen projects, and create community.
 
 | | |
 |---|---|
@@ -34,22 +35,28 @@ We bring together people who build, maintain, and want to enter the open technol
 | 📍 **Format** | Online and free |
 | 📺 **Where to watch** | [YouTube/@CumbucaDev](https://www.youtube.com/@CumbucaDev) |
 
-👉 To understand the full context, motivations, and vision behind the project: [Main README](../README_EN.md)
+👉 To understand the full context, motivations, and vision behind the project: [main README](../README.md)
 
 ## 📺 How to Watch
 
-The event will be streamed live on YouTube for free across two simultaneous channels:
+The event will be streamed live on YouTube, free of charge, across two simultaneous tracks:
 
-**🟣 [Main channel - FLOSS in practice](https://www.youtube.com/@CumbucaDev)**
-Advanced and technical content: keynotes, talks, and the closing panel.
+* **🟣 [Main Track - FLOSS in Practice](https://www.youtube.com/watch?v=2GLyGSolizQ)**
+Advanced and technical content: keynotes, talks, and closing panel.
 
-**🔵 Parallel channel - FLOSS Fundamentals**
-An introductory track for people who are starting in the open source ecosystem.
-_Link will be available closer to the event date._
+* **🔵 Beginner Track - FLOSS Fundamentals**
+Introductory track for people starting in the open source ecosystem. _Link available closer to the event date._
 
-No registration is required - just join and watch. Recordings will remain available after the event.
+No registration is required - just join and watch.
 
-## 🌟 Who You Will Find There
+> **And if the project resonates with you, leave a like on the**
+> **[stream](https://www.youtube.com/watch?v=2GLyGSolizQ)!**
+> **That really helps YouTube recommend the event to more people and strengthens the visibility of**
+> **Brazilian open source initiatives 💜**
+
+Recordings will remain available after the event.
+
+## 🌟 Who You'll Meet There
 
 <table>
   <tr>
@@ -57,6 +64,12 @@ No registration is required - just join and watch. Recordings will remain availa
       <a href="./pessoas/anna-e-so.md">
         <img src="./assets/images/participantes/anna-e-so.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
         <sub><b>Anna e Só</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/camis-moreira.md">
+        <img src="./assets/images/participantes/camis-moreira.jpeg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Camis Moreira</b></sub>
       </a>
     </td>
     <td align="center" width="100">
@@ -75,6 +88,18 @@ No registration is required - just join and watch. Recordings will remain availa
       <a href="./pessoas/cuducos.md">
         <img src="https://ui-avatars.com/api/?name=Cuducos&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
         <sub><b>Cuducos</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/felipython.md">
+        <img src="./assets/images/participantes/felipython.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>FeliPython</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/eduardo-oliveira.md">
+        <img src="./assets/images/participantes/eduardo-oliveira.jpeg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Eduardo Oliveira</b></sub>
       </a>
     </td>
     <td align="center" width="100">
@@ -142,35 +167,37 @@ No registration is required - just join and watch. Recordings will remain availa
   </tr>
 </table>
 
-👉 Full schedule: [full_schedule.md](./grade_completa.md)
+## 📅 Schedule
+
+See the detailed schedule in [grade_completa.md](./grade_completa.md)
 
 ## 💎 Sponsors
 
-NOSS 2026 is made possible through the support of organizations that believe in the Brazilian open source ecosystem.
+NOSS 2026 is made possible thanks to the support of organizations that believe in the Brazilian open source ecosystem.
 
 <!-- PLACEHOLDER: add sponsors as they are confirmed -->
 <!-- Suggested format by tier:
 
 ### 🥇 Gold
-<a href="URL"><img src="LOGO_URL" height="60" alt="Name"></a>
+<a href="URL"><img src="URL_LOGO" height="60" alt="Name"></a>
 
 ### 🥈 Silver
-<a href="URL"><img src="LOGO_URL" height="48" alt="Name"></a>
+<a href="URL"><img src="URL_LOGO" height="48" alt="Name"></a>
 
 ### 🥉 Bronze
-<a href="URL"><img src="LOGO_URL" height="36" alt="Name"></a>
+<a href="URL"><img src="URL_LOGO" height="36" alt="Name"></a>
 
 ### Institutional Support
-<a href="URL"><img src="LOGO_URL" height="36" alt="Name"></a>
+<a href="URL"><img src="URL_LOGO" height="36" alt="Name"></a>
 -->
 
 *Sponsors will be announced soon.*
 
-👉 Organizations interested in supporting the event can access the sponsorship proposal here: [sponsorship-proposal.md]((./proposta-patrocinio.md))
+👉 Organizations interested in supporting the event can access the sponsorship proposal: [sponsorship_proposal.md](./sponsorship_proposal.md)
 
 ## 🤜🤛 Partner Organizations
 
-NOSS is built in collaboration with communities, organizations, and initiatives that strengthen the FLOSS ecosystem in Brazil and worldwide.
+NOSS is built in collaboration with communities, organizations, and initiatives that strengthen the FLOSS ecosystem in Brazil and around the world.
 
 <table>
   <tr>
@@ -201,15 +228,15 @@ NOSS is built in collaboration with communities, organizations, and initiatives 
   </tr>
 </table>
 
-Details about each organization: [partner_organizations.md]((./organizacoes_parceiras.md))
+Details about each organization: [organizacoes_parceiras.md](./organizacoes_parceiras.md)
 
-> Want your community or organization to be part of NOSS? 📧 <eventos@cumbuca.dev> - Subject: `NOSS 2026 Partnership`
+> Want your community or organization to be part of it? 📧 <eventos@cumbuca.dev> - Subject: `NOSS 2026 Partnership`
 
 ## 🤝 Volunteering
 
-The event is built with the help of volunteers. You can contribute in different areas:
+The event is built with the participation of volunteers. You can contribute in different areas:
 
-- **Organization** - supporting the core team
+- **Organization** - support for the core team
 - **Communication** - outreach and social media
 - **Chat moderation** - during live streams
 - **Technical support** - streaming infrastructure
@@ -218,23 +245,12 @@ The event is built with the help of volunteers. You can contribute in different 
 
 ## ❓ Frequently Asked Questions
 
-* **Is the event paid?**
-No. NOSS 2026 is completely free and open.
-
-* **Do I need to register to watch?**
-No. Just access the Cumbuca Dev YouTube channel on May 30.
-
-* **Will the recordings remain available?**
-Yes. Recordings will be published on the channel after the event.
-
-* **Can I submit a talk even if I am a beginner?**
-Yes! The FLOSS Fundamentals track is specifically designed for people who are getting started and welcomes introductory content.
-
-* **Does the event have a code of conduct?**
-Yes. Every participant must follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
-
-* **How can I contribute to the repository?**
-Read the [CONTRIBUTING.md](../CONTRIBUTING.md) to learn how to contribute to the event documentation and organization.
+* **Is the event paid?** No. NOSS 2026 is completely free and open.
+* **Do I need to register to watch?** No. Just access the Cumbuca Dev YouTube channel on 05/30.
+* **Will there be a participation certificate?** Yes. We will issue participation certificates. To receive one, you will need to complete a check-in during the event. More details will be explained during the livestream.
+* **Can I submit a talk even if I’m a beginner?** Yes! The FLOSS Fundamentals track is specifically designed for people getting started and welcomes introductory content.
+* **Does the event have a code of conduct?** Yes. Every participant must follow the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md).
+* **How can I contribute to the repository?** Read [CONTRIBUTING.md](../CONTRIBUTING.md) to learn how to contribute to the documentation and organization of the event.
 
 ## 📌 Contact
 

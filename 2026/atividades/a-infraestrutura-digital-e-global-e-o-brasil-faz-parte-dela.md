@@ -3,7 +3,7 @@
 ## 📌 Informações Gerais
 
 - **Pessoa palestrante:** [Paloma Oliveira](../pessoas/paloma-oliveira.md)
-- **Tipo de atividade:** Palestra / Talk
+- **Tipo de atividade:** Keynote / Keynote
 - **Categoria:** Outro/Other
 - **Nível:** Iniciante/Beginner
 - **Experiência esperada em Open Source:** Nenhuma experiência/No experience needed

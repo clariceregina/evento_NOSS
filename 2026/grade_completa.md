@@ -60,7 +60,10 @@ Trilha introdutória para pessoas em início de jornada:
         <a href="./pessoas/carlos-becker.md"><b>Carlos Becker</b></a><br>
         <a href="./atividades/o-valor-do-portfolio-na-era-da-ai.md">O valor do portfólio na era da AI</a>
       </td>
-      <td align="center"><i>a confirmar</i></td>
+      <td>
+        <a href="./pessoas/camis-moreira.md"><b>Camis Moreira</b></a><br>
+        <a href="./atividades/comunidade-e-diversidade-uma-combinacao-obrigatoria.md">Comunidade e Diversidade: uma combinação obrigatória</a>
+      </td>
     </tr>
     <tr>
       <td><b>12:30 – 13:30</b></td>
@@ -113,7 +116,10 @@ Trilha introdutória para pessoas em início de jornada:
         <a href="./pessoas/anna-e-so.md"><b>Anna e Só</b></a><br>
         <a href="./atividades/para-onde-vai-o-software-livre.md">Para onde vai o software livre?</a>
       </td>
-      <td align="center"><i>a confirmar</i></td>
+      <td>
+        <a href="./pessoas/eduardo-oliveira.md"><b>Eduardo Oliveira</b></a><br>
+        <a href="./atividades/contribuindo-para-o-open-source-sendo-uma-pessoa-comum.md">Contribuindo para o Open-Source sendo uma pessoa comum</a>
+      </td>
     </tr>
     <tr>
       <td><b>17:30 – 18:20</b></td>

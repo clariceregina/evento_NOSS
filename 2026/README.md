@@ -67,6 +67,12 @@ As gravações ficarão disponíveis após o evento.
       </a>
     </td>
     <td align="center" width="100">
+      <a href="./pessoas/camis-moreira.md">
+        <img src="./assets/images/participantes/camis-moreira.jpeg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Camis Moreira</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
       <a href="./pessoas/carla-rocha.md">
         <img src="https://ui-avatars.com/api/?name=Carla+Rocha&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
         <sub><b>Carla Rocha</b></sub>
@@ -88,6 +94,12 @@ As gravações ficarão disponíveis após o evento.
       <a href="./pessoas/felipython.md">
         <img src="./assets/images/participantes/felipython.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
         <sub><b>FeliPython</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="./pessoas/eduardo-oliveira.md">
+        <img src="./assets/images/participantes/eduardo-oliveira.jpeg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Eduardo Oliveira</b></sub>
       </a>
     </td>
     <td align="center" width="100">
@@ -235,7 +247,6 @@ O evento é construído com a participação de pessoas voluntárias. Você pode
 
 * **O evento é pago?** Não. O NOSS 2026 é totalmente gratuito e aberto.
 * **Preciso me inscrever para assistir?** Não. É só acessar o YouTube da Cumbuca Dev no dia 30/05.
-* **As gravações ficarão disponíveis?** Sim. As gravações serão publicadas no canal após o evento.
 * **Haverá certificado de participação?** Sim. Iremos gerar certificados de participação. Para receber o certificado, será necessário realizar um check-in no dia do evento. Mais detalhes serão explicados durante a transmissão.
 * **Posso submeter uma palestra mesmo sendo iniciante?** Sim! A trilha Fundamentos em FLOSS é voltada exatamente para quem está começando e aceita conteúdos introdutórios.
 * **O evento tem código de conduta?** Sim. Todo participante deve seguir o [Código de Conduta](../CODE_OF_CONDUCT.md).
