@@ -180,11 +180,12 @@ Veja a programação detalhada em [grade_completa.md](./grade_completa.md)
 O NOSS 2026 é viabilizado pelo apoio de organizações que acreditam no ecossistema open source brasileiro.
 
 <!-- PLACEHOLDER: adicionar patrocinadores à medida que forem confirmados -->
-<!-- Formato sugerido por nível:
+<!-- Formato sugerido por nível:-->
 
 ### 🥇 Ouro
-<a href="URL"><img src="URL_LOGO" height="60" alt="Nome"></a>
+<a href="https://www.designliquido.com.br/"><img src="./assets/images/patrocinadores/logo-design-liquido.png" height="60" alt="Nome"></a>
 
+<!--
 ### 🥈 Prata
 <a href="URL"><img src="URL_LOGO" height="48" alt="Nome"></a>
 
@@ -195,9 +196,7 @@ O NOSS 2026 é viabilizado pelo apoio de organizações que acreditam no ecossis
 <a href="URL"><img src="URL_LOGO" height="36" alt="Nome"></a>
 -->
 
-*Patrocinadores serão anunciados em breve.*
-
-👉 Organizações interessadas em apoiar o evento podem acessar a proposta de patrocínio: [proposta-patrocinio.md](./proposta-patrocinio.md)
+Organizações interessadas em apoiar o evento podem acessar a proposta de patrocínio: [proposta-patrocinio.md](./proposta-patrocinio.md)
 
 ## 🤜🤛 Organizações Parceiras
 

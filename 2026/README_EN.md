@@ -180,11 +180,12 @@ See the detailed schedule in [grade_completa.md](./grade_completa.md)
 NOSS 2026 is made possible thanks to the support of organizations that believe in the Brazilian open source ecosystem.
 
 <!-- PLACEHOLDER: add sponsors as they are confirmed -->
-<!-- Suggested format by tier:
+<!-- Suggested format by tier:-->
 
 ### 🥇 Gold
-<a href="URL"><img src="URL_LOGO" height="60" alt="Name"></a>
+<a href="https://www.designliquido.com.br/"><img src="./assets/images/patrocinadores/logo-design-liquido.png" height="60" alt="Nome"></a>
 
+<!--
 ### 🥈 Silver
 <a href="URL"><img src="URL_LOGO" height="48" alt="Name"></a>
 
@@ -195,9 +196,7 @@ NOSS 2026 is made possible thanks to the support of organizations that believe i
 <a href="URL"><img src="URL_LOGO" height="36" alt="Name"></a>
 -->
 
-*Sponsors will be announced soon.*
-
-👉 Organizations interested in supporting the event can access the sponsorship proposal: [sponsorship_proposal.md](./sponsorship_proposal.md)
+Organizations interested in supporting the event can access the sponsorship proposal: [sponsorship_proposal.md](./sponsorship_proposal.md)
 
 ## 🤜🤛 Partner Organizations
 
