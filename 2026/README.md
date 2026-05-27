@@ -115,6 +115,12 @@ As gravações ficarão disponíveis após o evento.
       </a>
     </td>
     <td align="center" width="100">
+      <a href="./pessoas/marylia-gutierrez.md">
+        <img src="./assets/images/participantes/marylia-gutierrez.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+        <sub><b>Marylia Gutierrez</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
       <a href="./pessoas/mario-sergio.md">
         <img src="./assets/images/participantes/mario-sergio.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
         <sub><b>Mário Sérgio</b></sub>

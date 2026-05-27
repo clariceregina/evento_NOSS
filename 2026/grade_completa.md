@@ -40,7 +40,7 @@ Trilha introdutória para pessoas em início de jornada:
       <td><b>10:00 – 11:00</b></td>
       <td colspan="2" align="center">
         <sup><b>KEYNOTE</b></sup><br>
-        <i>a confirmar</i>
+        <a href="./pessoas/marylia-gutierrez.md"><b>Marylia Gutierrez</b></a><br>
       </td>
     </tr>
     <tr>
