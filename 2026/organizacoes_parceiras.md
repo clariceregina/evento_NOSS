@@ -130,7 +130,6 @@ No NOSS, a Tech Floripa participa da gestão do evento, atuando na organização
       src="assets/images/logo_progirls.jpeg"
       width="70%"
     >
-  </picture>
 </div>
 <br>
 
